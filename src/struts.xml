@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+    <package name="default" namespace="/" extends="struts-default">
+
+        <default-action-ref name="index" />
+
+        <!-- 
+        <global-results>
+            <result name="error">/jsp/error.jsp</result>
+        </global-results>
+         -->
+
+        <global-exception-mappings>
+            <exception-mapping exception="java.lang.Exception" result="error"/>
+        </global-exception-mappings>
+        
+        <!-- <action name="log4j" class="com.log.log4j">
+        	<result name="success">/jsp/log4j.jsp</result>
+        </action>
+        
+        <action name="del_log" class="com.log.log4j" method="DelLog">
+        	<result name="success">/jsp/success.jsp</result>
+        </action> -->
+        
+    </package>
+    
+    <!-- 官网页面对应的映射文件 -->
+    <include file="official.xml"/>
+    
+</struts>

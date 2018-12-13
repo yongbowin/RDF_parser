@@ -1,0 +1,1736 @@
+[
+    {
+        "id": "pr1",
+        "uri": null,
+        "confidence": -1,
+        "span": {
+            "targets": [
+                {
+                    "id": "t6",
+                    "type": null,
+                    "lemma": "开始",
+                    "pos": "V",
+                    "morphofeat": null,
+                    "sentiment": null,
+                    "components": [],
+                    "head": null,
+                    "span": {
+                        "targets": [
+                            {
+                                "id": "w6",
+                                "sent": 1,
+                                "offset": 11,
+                                "length": 2,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "开始"
+                            }
+                        ],
+                        "head": null,
+                        "firstTarget": {
+                            "id": "w6",
+                            "sent": 1,
+                            "offset": 11,
+                            "length": 2,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "开始"
+                        },
+                        "empty": false
+                    },
+                    "compound": null,
+                    "wfs": [
+                        {
+                            "id": "w6",
+                            "sent": 1,
+                            "offset": 11,
+                            "length": 2,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "开始"
+                        }
+                    ],
+                    "sent": 1,
+                    "form": "开始",
+                    "para": 1,
+                    "case": null,
+                    "str": "开始",
+                    "headWF": null,
+                    "externalRefs": []
+                }
+            ],
+            "head": null,
+            "firstTarget": {
+                "id": "t6",
+                "type": null,
+                "lemma": "开始",
+                "pos": "V",
+                "morphofeat": null,
+                "sentiment": null,
+                "components": [],
+                "head": null,
+                "span": {
+                    "targets": [
+                        {
+                            "id": "w6",
+                            "sent": 1,
+                            "offset": 11,
+                            "length": 2,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "开始"
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "w6",
+                        "sent": 1,
+                        "offset": 11,
+                        "length": 2,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "开始"
+                    },
+                    "empty": false
+                },
+                "compound": null,
+                "wfs": [
+                    {
+                        "id": "w6",
+                        "sent": 1,
+                        "offset": 11,
+                        "length": 2,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "开始"
+                    }
+                ],
+                "sent": 1,
+                "form": "开始",
+                "para": 1,
+                "case": null,
+                "str": "开始",
+                "headWF": null,
+                "externalRefs": []
+            },
+            "empty": false
+        },
+        "roles": [
+            {
+                "id": "r1",
+                "semRole": "TMP",
+                "span": {
+                    "targets": [
+                        {
+                            "id": "t2",
+                            "type": null,
+                            "lemma": "去年秋天",
+                            "pos": "NT",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w2",
+                                        "sent": 1,
+                                        "offset": 1,
+                                        "length": 4,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "去年秋天"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "去年秋天",
+                            "para": 1,
+                            "case": null,
+                            "str": "去年秋天",
+                            "headWF": null,
+                            "externalRefs": []
+                        },
+                        {
+                            "id": "t3",
+                            "type": null,
+                            "lemma": "以来",
+                            "pos": "LC",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w3",
+                                        "sent": 1,
+                                        "offset": 5,
+                                        "length": 2,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "以来"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "以来",
+                            "para": 1,
+                            "case": null,
+                            "str": "以来",
+                            "headWF": null,
+                            "externalRefs": []
+                        },
+                        {
+                            "id": "t4",
+                            "type": null,
+                            "lemma": "，",
+                            "pos": "PU",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w4",
+                                        "sent": 1,
+                                        "offset": 7,
+                                        "length": 1,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "，"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "，",
+                            "para": 1,
+                            "case": null,
+                            "str": "，",
+                            "headWF": null,
+                            "externalRefs": []
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "t2",
+                        "type": null,
+                        "lemma": "去年秋天",
+                        "pos": "NT",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "去年秋天",
+                        "para": 1,
+                        "case": null,
+                        "str": "去年秋天",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    "empty": false
+                },
+                "terms": [
+                    {
+                        "id": "t2",
+                        "type": null,
+                        "lemma": "去年秋天",
+                        "pos": "NT",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "去年秋天",
+                        "para": 1,
+                        "case": null,
+                        "str": "去年秋天",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    {
+                        "id": "t3",
+                        "type": null,
+                        "lemma": "以来",
+                        "pos": "LC",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w3",
+                                "sent": 1,
+                                "offset": 5,
+                                "length": 2,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "以来"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w3",
+                                "sent": 1,
+                                "offset": 5,
+                                "length": 2,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "以来"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "以来",
+                        "para": 1,
+                        "case": null,
+                        "str": "以来",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    {
+                        "id": "t4",
+                        "type": null,
+                        "lemma": "，",
+                        "pos": "PU",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w4",
+                                "sent": 1,
+                                "offset": 7,
+                                "length": 1,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "，"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w4",
+                                "sent": 1,
+                                "offset": 7,
+                                "length": 1,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "，"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "，",
+                        "para": 1,
+                        "case": null,
+                        "str": "，",
+                        "headWF": null,
+                        "externalRefs": []
+                    }
+                ],
+                "str": "去年秋天 以来 ，",
+                "externalRefs": []
+            },
+            {
+                "id": "r2",
+                "semRole": "A0",
+                "span": {
+                    "targets": [
+                        {
+                            "id": "t5",
+                            "type": null,
+                            "lemma": "巴菲特",
+                            "pos": "NR",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w5",
+                                        "sent": 1,
+                                        "offset": 8,
+                                        "length": 3,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "巴菲特"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "巴菲特",
+                            "para": 1,
+                            "case": null,
+                            "str": "巴菲特",
+                            "headWF": null,
+                            "externalRefs": []
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "t5",
+                        "type": null,
+                        "lemma": "巴菲特",
+                        "pos": "NR",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "巴菲特",
+                        "para": 1,
+                        "case": null,
+                        "str": "巴菲特",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    "empty": false
+                },
+                "terms": [
+                    {
+                        "id": "t5",
+                        "type": null,
+                        "lemma": "巴菲特",
+                        "pos": "NR",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "巴菲特",
+                        "para": 1,
+                        "case": null,
+                        "str": "巴菲特",
+                        "headWF": null,
+                        "externalRefs": []
+                    }
+                ],
+                "str": "巴菲特",
+                "externalRefs": []
+            }
+        ],
+        "terms": [
+            {
+                "id": "t6",
+                "type": null,
+                "lemma": "开始",
+                "pos": "V",
+                "morphofeat": null,
+                "sentiment": null,
+                "components": [],
+                "head": null,
+                "span": {
+                    "targets": [
+                        {
+                            "id": "w6",
+                            "sent": 1,
+                            "offset": 11,
+                            "length": 2,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "开始"
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "w6",
+                        "sent": 1,
+                        "offset": 11,
+                        "length": 2,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "开始"
+                    },
+                    "empty": false
+                },
+                "compound": null,
+                "wfs": [
+                    {
+                        "id": "w6",
+                        "sent": 1,
+                        "offset": 11,
+                        "length": 2,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "开始"
+                    }
+                ],
+                "sent": 1,
+                "form": "开始",
+                "para": 1,
+                "case": null,
+                "str": "开始",
+                "headWF": null,
+                "externalRefs": []
+            }
+        ],
+        "sent": 1,
+        "para": 1,
+        "str": "t6 开始 : TMP[t2 去年秋天] A0[t5 巴菲特]",
+        "externalRefs": [],
+        "spanStr": "开始"
+    },
+    {
+        "id": "pr2",
+        "uri": null,
+        "confidence": -1,
+        "span": {
+            "targets": [
+                {
+                    "id": "t7",
+                    "type": null,
+                    "lemma": "买",
+                    "pos": "V",
+                    "morphofeat": null,
+                    "sentiment": null,
+                    "components": [],
+                    "head": null,
+                    "span": {
+                        "targets": [
+                            {
+                                "id": "w7",
+                                "sent": 1,
+                                "offset": 13,
+                                "length": 1,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "买"
+                            }
+                        ],
+                        "head": null,
+                        "firstTarget": {
+                            "id": "w7",
+                            "sent": 1,
+                            "offset": 13,
+                            "length": 1,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "买"
+                        },
+                        "empty": false
+                    },
+                    "compound": null,
+                    "wfs": [
+                        {
+                            "id": "w7",
+                            "sent": 1,
+                            "offset": 13,
+                            "length": 1,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "买"
+                        }
+                    ],
+                    "sent": 1,
+                    "form": "买",
+                    "para": 1,
+                    "case": null,
+                    "str": "买",
+                    "headWF": null,
+                    "externalRefs": []
+                }
+            ],
+            "head": null,
+            "firstTarget": {
+                "id": "t7",
+                "type": null,
+                "lemma": "买",
+                "pos": "V",
+                "morphofeat": null,
+                "sentiment": null,
+                "components": [],
+                "head": null,
+                "span": {
+                    "targets": [
+                        {
+                            "id": "w7",
+                            "sent": 1,
+                            "offset": 13,
+                            "length": 1,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "买"
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "w7",
+                        "sent": 1,
+                        "offset": 13,
+                        "length": 1,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "买"
+                    },
+                    "empty": false
+                },
+                "compound": null,
+                "wfs": [
+                    {
+                        "id": "w7",
+                        "sent": 1,
+                        "offset": 13,
+                        "length": 1,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "买"
+                    }
+                ],
+                "sent": 1,
+                "form": "买",
+                "para": 1,
+                "case": null,
+                "str": "买",
+                "headWF": null,
+                "externalRefs": []
+            },
+            "empty": false
+        },
+        "roles": [
+            {
+                "id": "r3",
+                "semRole": "TMP",
+                "span": {
+                    "targets": [
+                        {
+                            "id": "t2",
+                            "type": null,
+                            "lemma": "去年秋天",
+                            "pos": "NT",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w2",
+                                        "sent": 1,
+                                        "offset": 1,
+                                        "length": 4,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "去年秋天"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "去年秋天",
+                            "para": 1,
+                            "case": null,
+                            "str": "去年秋天",
+                            "headWF": null,
+                            "externalRefs": []
+                        },
+                        {
+                            "id": "t3",
+                            "type": null,
+                            "lemma": "以来",
+                            "pos": "LC",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w3",
+                                        "sent": 1,
+                                        "offset": 5,
+                                        "length": 2,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "以来"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "以来",
+                            "para": 1,
+                            "case": null,
+                            "str": "以来",
+                            "headWF": null,
+                            "externalRefs": []
+                        },
+                        {
+                            "id": "t4",
+                            "type": null,
+                            "lemma": "，",
+                            "pos": "PU",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w4",
+                                        "sent": 1,
+                                        "offset": 7,
+                                        "length": 1,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "，"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "，",
+                            "para": 1,
+                            "case": null,
+                            "str": "，",
+                            "headWF": null,
+                            "externalRefs": []
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "t2",
+                        "type": null,
+                        "lemma": "去年秋天",
+                        "pos": "NT",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "去年秋天",
+                        "para": 1,
+                        "case": null,
+                        "str": "去年秋天",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    "empty": false
+                },
+                "terms": [
+                    {
+                        "id": "t2",
+                        "type": null,
+                        "lemma": "去年秋天",
+                        "pos": "NT",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w2",
+                                    "sent": 1,
+                                    "offset": 1,
+                                    "length": 4,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "去年秋天"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w2",
+                                "sent": 1,
+                                "offset": 1,
+                                "length": 4,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "去年秋天"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "去年秋天",
+                        "para": 1,
+                        "case": null,
+                        "str": "去年秋天",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    {
+                        "id": "t3",
+                        "type": null,
+                        "lemma": "以来",
+                        "pos": "LC",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w3",
+                                    "sent": 1,
+                                    "offset": 5,
+                                    "length": 2,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "以来"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w3",
+                                "sent": 1,
+                                "offset": 5,
+                                "length": 2,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "以来"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w3",
+                                "sent": 1,
+                                "offset": 5,
+                                "length": 2,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "以来"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "以来",
+                        "para": 1,
+                        "case": null,
+                        "str": "以来",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    {
+                        "id": "t4",
+                        "type": null,
+                        "lemma": "，",
+                        "pos": "PU",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w4",
+                                    "sent": 1,
+                                    "offset": 7,
+                                    "length": 1,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "，"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w4",
+                                "sent": 1,
+                                "offset": 7,
+                                "length": 1,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "，"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w4",
+                                "sent": 1,
+                                "offset": 7,
+                                "length": 1,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "，"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "，",
+                        "para": 1,
+                        "case": null,
+                        "str": "，",
+                        "headWF": null,
+                        "externalRefs": []
+                    }
+                ],
+                "str": "去年秋天 以来 ，",
+                "externalRefs": []
+            },
+            {
+                "id": "r4",
+                "semRole": "A0",
+                "span": {
+                    "targets": [
+                        {
+                            "id": "t5",
+                            "type": null,
+                            "lemma": "巴菲特",
+                            "pos": "NR",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w5",
+                                        "sent": 1,
+                                        "offset": 8,
+                                        "length": 3,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "巴菲特"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "巴菲特",
+                            "para": 1,
+                            "case": null,
+                            "str": "巴菲特",
+                            "headWF": null,
+                            "externalRefs": []
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "t5",
+                        "type": null,
+                        "lemma": "巴菲特",
+                        "pos": "NR",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "巴菲特",
+                        "para": 1,
+                        "case": null,
+                        "str": "巴菲特",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    "empty": false
+                },
+                "terms": [
+                    {
+                        "id": "t5",
+                        "type": null,
+                        "lemma": "巴菲特",
+                        "pos": "NR",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w5",
+                                    "sent": 1,
+                                    "offset": 8,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "巴菲特"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w5",
+                                "sent": 1,
+                                "offset": 8,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "巴菲特"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "巴菲特",
+                        "para": 1,
+                        "case": null,
+                        "str": "巴菲特",
+                        "headWF": null,
+                        "externalRefs": []
+                    }
+                ],
+                "str": "巴菲特",
+                "externalRefs": []
+            },
+            {
+                "id": "r5",
+                "semRole": "A1",
+                "span": {
+                    "targets": [
+                        {
+                            "id": "t9",
+                            "type": null,
+                            "lemma": "航空股",
+                            "pos": "NN",
+                            "morphofeat": null,
+                            "sentiment": null,
+                            "components": [],
+                            "head": null,
+                            "span": {
+                                "targets": [
+                                    {
+                                        "id": "w9",
+                                        "sent": 1,
+                                        "offset": 15,
+                                        "length": 3,
+                                        "para": 1,
+                                        "page": -1,
+                                        "xpath": null,
+                                        "form": "航空股"
+                                    }
+                                ],
+                                "head": null,
+                                "firstTarget": {
+                                    "id": "w9",
+                                    "sent": 1,
+                                    "offset": 15,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "航空股"
+                                },
+                                "empty": false
+                            },
+                            "compound": null,
+                            "wfs": [
+                                {
+                                    "id": "w9",
+                                    "sent": 1,
+                                    "offset": 15,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "航空股"
+                                }
+                            ],
+                            "sent": 1,
+                            "form": "航空股",
+                            "para": 1,
+                            "case": null,
+                            "str": "航空股",
+                            "headWF": null,
+                            "externalRefs": []
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "t9",
+                        "type": null,
+                        "lemma": "航空股",
+                        "pos": "NN",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w9",
+                                    "sent": 1,
+                                    "offset": 15,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "航空股"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w9",
+                                "sent": 1,
+                                "offset": 15,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "航空股"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w9",
+                                "sent": 1,
+                                "offset": 15,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "航空股"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "航空股",
+                        "para": 1,
+                        "case": null,
+                        "str": "航空股",
+                        "headWF": null,
+                        "externalRefs": []
+                    },
+                    "empty": false
+                },
+                "terms": [
+                    {
+                        "id": "t9",
+                        "type": null,
+                        "lemma": "航空股",
+                        "pos": "NN",
+                        "morphofeat": null,
+                        "sentiment": null,
+                        "components": [],
+                        "head": null,
+                        "span": {
+                            "targets": [
+                                {
+                                    "id": "w9",
+                                    "sent": 1,
+                                    "offset": 15,
+                                    "length": 3,
+                                    "para": 1,
+                                    "page": -1,
+                                    "xpath": null,
+                                    "form": "航空股"
+                                }
+                            ],
+                            "head": null,
+                            "firstTarget": {
+                                "id": "w9",
+                                "sent": 1,
+                                "offset": 15,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "航空股"
+                            },
+                            "empty": false
+                        },
+                        "compound": null,
+                        "wfs": [
+                            {
+                                "id": "w9",
+                                "sent": 1,
+                                "offset": 15,
+                                "length": 3,
+                                "para": 1,
+                                "page": -1,
+                                "xpath": null,
+                                "form": "航空股"
+                            }
+                        ],
+                        "sent": 1,
+                        "form": "航空股",
+                        "para": 1,
+                        "case": null,
+                        "str": "航空股",
+                        "headWF": null,
+                        "externalRefs": []
+                    }
+                ],
+                "str": "航空股",
+                "externalRefs": []
+            }
+        ],
+        "terms": [
+            {
+                "id": "t7",
+                "type": null,
+                "lemma": "买",
+                "pos": "V",
+                "morphofeat": null,
+                "sentiment": null,
+                "components": [],
+                "head": null,
+                "span": {
+                    "targets": [
+                        {
+                            "id": "w7",
+                            "sent": 1,
+                            "offset": 13,
+                            "length": 1,
+                            "para": 1,
+                            "page": -1,
+                            "xpath": null,
+                            "form": "买"
+                        }
+                    ],
+                    "head": null,
+                    "firstTarget": {
+                        "id": "w7",
+                        "sent": 1,
+                        "offset": 13,
+                        "length": 1,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "买"
+                    },
+                    "empty": false
+                },
+                "compound": null,
+                "wfs": [
+                    {
+                        "id": "w7",
+                        "sent": 1,
+                        "offset": 13,
+                        "length": 1,
+                        "para": 1,
+                        "page": -1,
+                        "xpath": null,
+                        "form": "买"
+                    }
+                ],
+                "sent": 1,
+                "form": "买",
+                "para": 1,
+                "case": null,
+                "str": "买",
+                "headWF": null,
+                "externalRefs": []
+            }
+        ],
+        "sent": 1,
+        "para": 1,
+        "str": "t7 买 : TMP[t2 去年秋天] A0[t5 巴菲特] A1[t9 航空股]",
+        "externalRefs": [],
+        "spanStr": "买"
+    }
+]

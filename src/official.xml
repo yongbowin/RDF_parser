@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+	"-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+	"http://struts.apache.org/dtds/struts-2.3.dtd">
+
+<struts>
+
+    <package name="official" namespace="/" extends="default">
+
+        <action name="index" class="com.eckg.parse.run.ExecuteParse">
+            <result name="success">/jsp/index.jsp</result>
+        </action>
+        
+        <!-- 点击事件-向后台提交文本 -->
+        <action name="submit_txt" class="com.eckg.parse.run.ExecuteParse" method="submitTxt">
+            <!-- <result name="success">/jsp/index.jsp</result> -->
+        </action>
+        
+        <!-- Add actions here -->
+    </package>
+</struts>
